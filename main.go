@@ -8,9 +8,9 @@ import (
 	"net"
 	"os"
 	"path/filepath"
-	"raft-redis-cluster/raft"
-	"raft-redis-cluster/store"
-	"raft-redis-cluster/transport"
+	"raftkvs/raft"
+	"raftkvs/store"
+	"raftkvs/transport"
 	"strings"
 	"time"
 
